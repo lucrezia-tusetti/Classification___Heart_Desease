@@ -1,6 +1,15 @@
 # Classification___Heart_Desease
 The purpose of this study is to predict the risk of a myocardial infarction using data mining techniques
 
+## 🛠️ Keywords & Skills
+
+**Skills Applied:**  
+`Classification` `Logistic Regression` `KNN` `R programming`
+
+**Main Libraries Used in R:**  
+`tidyverse` `ggplot2` `caret` 
+
+
 ## 🩺 Introduction & Dataset
 
 By analyzing various health factors, the research aims to estimate the probability of an individual suffering a heart attack, specifically comparing models like **K-Nearest Neighbors** (KNN) and **Logistic Regression**.
